@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="395dp"
+        android:layout_height="595dp"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+
+        android:id="@+id/recyckerView" />
